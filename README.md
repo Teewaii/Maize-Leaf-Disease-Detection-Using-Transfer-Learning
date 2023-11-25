@@ -2,9 +2,9 @@
 The aim of this study is to implement, evaluate, and compare the performance of different pre-trained models (via transfer learning) and a custom CNN model in detecting and classifying maize leaf diseases.
 
 AIMS AND OBJECTIVES:
-The aim of this study is to implement, evaluate, and compare the performance of different pre-trained models (via transfer learning) and a custom CNN model in detecting and classifying maize leaf diseases.
+<h4>The aim of this study is to implement, evaluate, and compare the performance of different pre-trained models (via transfer learning) and a custom CNN model in detecting and classifying maize leaf diseases.</h4>
 
-<h1>The objectives to the aim are as follows;</h1>
+<h2>The objectives to the aim are as follows;</h2>
 
 <p>a.	Implement and fine-tune VGG19, ResNet152V2, Inception V3, and a custom CNN 	model for maize leaf disease detection.</p>
 <p>b.	Evaluate the performance of each model in terms of accuracy, precision, recall, F1-score, 	and confusion matrix.</p>
