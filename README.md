@@ -1,8 +1,8 @@
 # Maize-Leaf-Disease-Detection-Using-Transfer-Learning
 The aim of this study is to implement, evaluate, and compare the performance of different pre-trained models (via transfer learning) and a custom CNN model in detecting and classifying maize leaf diseases.
 
-AIMS AND OBJECTIVES:
-<h4>The aim of this study is to implement, evaluate, and compare the performance of different pre-trained models (via transfer learning) and a custom CNN model in detecting and classifying maize leaf diseases.</h4>
+<h3>AIMS AND OBJECTIVES:</h3>
+The aim of this study is to implement, evaluate, and compare the performance of different pre-trained models (via transfer learning) and a custom CNN model in detecting and classifying maize leaf diseases.
 
 <h2>The objectives to the aim are as follows;</h2>
 
